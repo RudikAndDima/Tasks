@@ -1,14 +1,11 @@
-﻿
-//Дана сторона квадрата a. Найти его площадь S = a2.
+﻿//Дана сторона квадрата a. Найти его площадь S = a2.
 #include <iostream>
 using namespace std;
 int main()
 {
-    int a, S;
+    int a;
     cout << "enter a";
     cin >> a;
-    S = a * a;
-    cout << S;
-
+    cout << a * a;
 }
 
