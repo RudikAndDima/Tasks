@@ -1,0 +1,16 @@
+
+#d2{list-style-type: circle;
+
+}
+#d3{
+    list-style-type: disc;
+ }
+#d4{
+    list-style-type: none;
+}
+#d5{
+    list-style-type: lower-greek;
+}
+#d6{
+    list-style-type: upper-alpha;
+}
